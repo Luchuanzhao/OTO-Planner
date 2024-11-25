@@ -2,7 +2,7 @@
 
 OTOPlanner: An Efficient Only Travelling Once Exploration Planner for Complex and Unknown Environments
 
-<img src="/img/fig1_a.PNG" style="zoom:50%;" /> <img src="/img/fig1_b.PNG" style="zoom:50%;" />
+<img src="/img/fig1.png"/>
 
 ## The code is coming soon!
 
