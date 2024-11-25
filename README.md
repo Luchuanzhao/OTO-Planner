@@ -8,7 +8,7 @@ OTOPlanner: An Efficient Only Travelling Once Exploration Planner for Complex an
 
 ## Paper
 
-[Arxiv](https://arxiv.org/abs/2406.07294)
+[arXiv](https://arxiv.org/abs/2406.07294)
 
 ## Reference
 
